@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Integer Picker Demo</string>
+    <string name="select_value">Selected Value:</string>
+    <string name="value">1</string>
+</resources>

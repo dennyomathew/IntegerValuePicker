@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <declare-styleable name="IntegerValuePicker">
+        <attr name="value" format="integer" />
+        <attr name="wholeNumbersOnly" format="boolean" />
+        <attr name="minValue" format="integer" />
+        <attr name="maxValue" format="integer" />
+        <attr name="readOnly" format="boolean" />
+        <attr name="enabled" format="boolean" />
+        <attr name="controlColor" format="string" />
+    </declare-styleable>
+</resources>
