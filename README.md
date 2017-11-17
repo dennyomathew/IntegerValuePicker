@@ -8,7 +8,7 @@ An android library which implements a simple number picker.
 Download via Gradle (Recommended):
 
 ```gradle
-compile ''com.github.dennyomathew:integervaluepicker:1.0.0'
+compile 'com.github.dennyomathew:integervaluepicker:1.0.0'
 ```
 or Maven:
 ```xml
