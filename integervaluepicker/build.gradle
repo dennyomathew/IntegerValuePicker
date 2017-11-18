@@ -28,7 +28,7 @@ android {
 publish {
     groupId = 'com.github.dennyomathew'
     artifactId = 'integervaluepicker'
-    publishVersion = '1.0.0'
+    publishVersion = '1.0.1'
     desc = 'An android library which implements a simple number picker.'
     licences = ['MIT']
     uploadName='IntegerValuePicker'
