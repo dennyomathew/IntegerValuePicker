@@ -1,7 +1,24 @@
 # IntegerValuePicker
 An android library which implements a simple number picker.
 
-![alt tag](https://i.imgur.com/MItliW2.png)
+![alt tag](https://i.imgur.com/yakKM76.png)
+
+### Download
+
+Download via Gradle (Recommended):
+
+```gradle
+compile 'com.github.dennyomathew:integervaluepicker:1.0.0'
+```
+or Maven:
+```xml
+<dependency>
+  <groupId>com.github.dennyomathew</groupId>
+  <artifactId>integervaluepicker</artifactId>
+  <version>1.0.0</version>
+  <type>pom</type>
+</dependency>
+```
 
 ### Usage
 
