@@ -1,7 +1,7 @@
 # IntegerValuePicker
 An android library which implements a simple number picker.
 
-![alt tag](https://i.imgur.com/yakKM76.png)
+![alt tag](https://i.imgur.com/ANUOW5G.png)
 
 ### Download
 
