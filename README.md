@@ -8,14 +8,14 @@ An android library which implements a simple number picker.
 Download via Gradle (Recommended):
 
 ```gradle
-compile 'com.github.dennyomathew:integervaluepicker:1.0.0'
+compile 'com.github.dennyomathew:integervaluepicker:1.0.1'
 ```
 or Maven:
 ```xml
 <dependency>
   <groupId>com.github.dennyomathew</groupId>
   <artifactId>integervaluepicker</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1</version>
   <type>pom</type>
 </dependency>
 ```
@@ -107,7 +107,7 @@ In activity class:
 ```
 MIT License
 
-Copyright (c) 2017 Denny Oommen Mathew
+Copyright (c) 2018 Denny Oommen Mathew
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
