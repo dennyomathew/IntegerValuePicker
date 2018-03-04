@@ -234,6 +234,7 @@ public class IntegerValuePicker extends ConstraintLayout {
 
     public void setValue(Integer val) {
         value = val;
+        updateUI();
     }
 
     public Integer getMinValue() {
